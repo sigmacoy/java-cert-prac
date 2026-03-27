@@ -1,4 +1,6 @@
-# Tips
+# Goodluck to anyone taking this upcoming java cert!
+
+## Feel free to use/fork my notes
 
 ## 1.
 ```java
