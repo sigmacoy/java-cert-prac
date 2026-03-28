@@ -1,6 +1,4 @@
-# Goodluck to anyone taking this upcoming java cert!
-
-## Feel free to use/fork my notesz
+# Goodluck to anyone taking this upcoming java cert! <br> Feel free to use/fork my notesz
 
 ## 1. Good practice about user input
 ```java
