@@ -21,11 +21,7 @@ String name = sc.nextLine();
 ## 2. Faster print
 ```java
 import static java.lang.System.out;
-import java.util.*;
-import java.io.*;
-```
 
-```java
 out.println("Hello, You!"); // this will work
 ```
 
