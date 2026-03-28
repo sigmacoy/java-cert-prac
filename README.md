@@ -1,8 +1,8 @@
 # Goodluck to anyone taking this upcoming java cert!
 
-## Feel free to use/fork my notes
+## Feel free to use/fork my notesz
 
-## 1.
+## 1. Good practice about user input
 ```java
 sc.nextLine(); // clear bufferr
 ``` 
@@ -18,19 +18,24 @@ System.out.print("Enter name: ");
 String name = sc.nextLine();      
 ```
 
-## 2. 
+## 2. Faster print
 ```java
 import static java.lang.System.out;
 import java.util.*;
 import java.io.*;
 ```
 
-## 3. 
-Use "ESC" if CodeChum suggest keyword you don't want (Leads to faster type)
+```java
+out.println("Hello, You!"); // this will work
+```
 
-## 4. 
+## 3. Use "ESC" if CodeChum suggest keyword you don't want 
+### (Leads to faster type)
+
+
+## 4. Make the other class package-private
 To make all files fit inside Main.java file
-Make the other class package-private 
+ 
 ### So instead of:
 ```java
 public class Main {
