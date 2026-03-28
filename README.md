@@ -51,4 +51,14 @@ class Animal {
 ```
 
 
-## 5. 
+## 5. Difference between FileWriter vs BufferedWriter
+FileWriter: Writes directly to file, character by character.
+BufferedWriter: Uses internal buffer (8KB default), writes in chunks.
+
+In practice: No difference in output. 
+FileWriter is simpler for single writes.
+BufferedWriter is faster for many writes (e.g., loops, large data). 
+
+Both work with \n:
+FileWriter → write("text\n")
+BufferedWriter → write("text\n") or newLine()
