@@ -1,4 +1,4 @@
-package sample_problems.strings.custom_sort_1;
+package sample_problems.strings.Comparable_1;
 
 import java.util.Arrays;
 

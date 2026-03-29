@@ -1,4 +1,4 @@
-package sample_problems.strings.custom_sort_1;
+package sample_problems.strings.Comparable_1;
 
 class Person implements Comparable<Person> {
     String name;
