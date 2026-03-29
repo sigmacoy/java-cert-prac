@@ -32,8 +32,8 @@ public class Main1 {
         try (FileWriter fw = new FileWriter(FILENAME, true);
              BufferedWriter bw = new BufferedWriter(fw);
              PrintWriter out = new PrintWriter(bw)) {
-            out.println(newContact.name + "," + newContact.phone);
-            System.out.println("Contact added successfully!");
+                out.println(newContact.name + "," + newContact.phone);
+                System.out.println("Contact added successfully!");
         } catch (IOException e) {
             System.out.println("Error writing to file!");
         }

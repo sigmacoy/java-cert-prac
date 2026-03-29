@@ -1,4 +1,8 @@
 // unordered
+/*
+no guarantees about iteration order. Order can even change over time.
+unordered_map in c++
+*/
 
 // Adding/Updating Elements
 // .put(key, value) - adds or updates key-value pair, returns old value
