@@ -9,7 +9,6 @@ public class _1 {
 
         // 2. .compareTo
 
-
         // 3. Case-Insensitive String Comparison
         String str2 = "Jelian";
         int result = str1.compareToIgnoreCase(str2); 
@@ -24,7 +23,6 @@ public class _1 {
         str1 = "Jelian and Macoy";
         str2 = "and";
         System.out.println(str1.contains(str2)); // true
-        
 
         /*
         
@@ -35,7 +33,6 @@ public class _1 {
         └── CharBuffer (implements)
         
         */
-
 
         // 6. Compare with StringBuffer and CharSequence
         str1 = "example.com";

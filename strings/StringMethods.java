@@ -68,7 +68,6 @@ public class StringMethods {
     // String repeated = str.repeat(3);          // "HelloHelloHello"
 
 
-
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 // COMPARISON METHODS
 

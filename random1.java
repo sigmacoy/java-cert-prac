@@ -19,6 +19,15 @@ public class random1 {
         
 
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        // 3.
+        // 3. Number to string:
+        String s = Integer.toString(123);
+        String s2 = String.valueOf(123);
+
+        // 4. String to number:
+        int num1 = Integer.parseInt("123");
+        int num2 = Integer.valueOf("123");
+        // For double: Double.parseDouble("3.14"), Double.toString(3.14)
+        
+        // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     }
 }
