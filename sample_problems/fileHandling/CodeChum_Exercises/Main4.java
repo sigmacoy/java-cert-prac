@@ -1,4 +1,4 @@
-package fileHandling.CodeChum_Exercises;
+package sample_problems.fileHandling.CodeChum_Exercises;
 import java.util.*;
 import java.io.*;
 

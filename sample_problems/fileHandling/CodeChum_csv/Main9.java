@@ -1,4 +1,4 @@
-package fileHandling.CodeChum_csv;
+package sample_problems.fileHandling.CodeChum_csv;
 
 import java.io.*;
 import java.util.*;

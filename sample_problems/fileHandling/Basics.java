@@ -1,4 +1,4 @@
-package fileHandling;
+package sample_problems.fileHandling;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
