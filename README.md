@@ -23,7 +23,7 @@ import static java.lang.System.out;
 out.println("Hello, You!"); // this will work
 ```
 
-## 3. Use "ESC" if CodeChum suggest keyword you don't want (Leads to faster type)
+## 3. 
 
 ## 4. To make all files fit inside Main.java file, Make the other class package-private
 
